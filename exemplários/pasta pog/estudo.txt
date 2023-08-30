@@ -1,0 +1,8 @@
+conn é registro base. teremos que usar ele como forma principal de conexão.
+
+msqli_connect =
+conectar se ao banco de dados utlizando
+o server, user e senha
+
+sempre colocar as expressões "or die"
+no final
